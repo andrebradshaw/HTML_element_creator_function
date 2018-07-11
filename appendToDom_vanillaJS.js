@@ -1,5 +1,7 @@
 //lets build something together!!
-
+/*/
+-------- follow along at -------> https://youtu.be/lZPg6dP1K0Q
+/*/
 //I do not like my current method for building pop-up boxes on a web page. It is tedious and prevents me from thinking about what I am building.
 
 //today I am going to build some functions to handle this task.
